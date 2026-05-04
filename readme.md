@@ -31,10 +31,13 @@ lsusb
 ```
 
 Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub Bus 001 Device 043: ID 054c:0e8c Sony Corp. 
+
 Bus 001 Device 045: ID 054c:094e Sony Corp. ILCE-6000 (aka Alpha-6000) in PC Remote mode Bus 001 Device 002: ID 04b4:6572 Cypress Semiconductor Corp. 
+
 Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 
 054c:0e8c Sony Corp. --> This is my A7CMII Camera (THIS NUMBERS ARE IMPORTANT TO IDENTIFY THE CAMERA)
+
 054c:094e Sony Corp. ILCE-6000 in PC Remote mode --> This is my A6000 Camera
 
 ## Understanding the Camera Entry (Vendor/Product IDs) - We need these numbers to identify the camera in the camera library
@@ -146,7 +149,9 @@ gphoto2 --capture-image-and-download
 ## In the ASIAIR App
 
 The exposure time is limited to 30 seconds. I'll try to unlock that later. In the meantime I think we can use a shutter release cable.
-Update 1: The 30 sec limit is only for the preview mode. In Autorun mode you can set as much as you want.
 
-<img width="1200" height="977" alt="WhatsApp Image 2026-05-04 at 19 40 16" src="https://github.com/user-attachments/assets/dade5841-3026-429e-bbd7-0d4cb366fcad" />
+**Update 1**: The 30 sec limit is only for the preview mode. In Autorun mode you can set as much as you want.
+
+<img width="1200" height="872" alt="WhatsApp Image 2026-05-04 at 19 40 16" src="https://github.com/user-attachments/assets/a13a6e9d-682d-4742-a6e7-a2a862b2b1cd" />
+
 
