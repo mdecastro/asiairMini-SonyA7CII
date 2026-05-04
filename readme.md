@@ -146,6 +146,7 @@ gphoto2 --capture-image-and-download
 ## In the ASIAIR App
 
 The exposure time is limited to 30 seconds. I'll try to unlock that later. In the meantime I think we can use a shutter release cable.
+Update 1: The 30 sec limit is only for the preview mode. In Autorun mode you can set as much as you want.
 
 <img width="1200" height="977" alt="WhatsApp Image 2026-05-04 at 19 40 16" src="https://github.com/user-attachments/assets/dade5841-3026-429e-bbd7-0d4cb366fcad" />
 
