@@ -1,4 +1,4 @@
-# Add support for the A7CMII Camera to the ASIAIR MINI
+# Adding support for the A7CMII Camera to the ASIAIR MINI
 
 ## Introduction
 
@@ -141,3 +141,11 @@ gphoto2 --auto-detect
 gphoto2 --summary
 gphoto2 --capture-image
 gphoto2 --capture-image-and-download
+```
+
+## In the ASIAIR App
+
+The exposure time is limited to 30 seconds. I'll try to unlock that later. In the meantime I think we can use a shutter release cable.
+
+<img width="1200" height="977" alt="WhatsApp Image 2026-05-04 at 19 40 16" src="https://github.com/user-attachments/assets/dade5841-3026-429e-bbd7-0d4cb366fcad" />
+
